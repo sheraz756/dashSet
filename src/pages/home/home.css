@@ -1,0 +1,13 @@
+.home{
+    overflow-y: scroll;
+    max-height: 100vh;
+    flex: 4;
+}
+.homeWidgets{
+
+    margin: 20px;
+    display: flex;
+    height: 100vh;
+}
+
+  
